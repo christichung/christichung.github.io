@@ -36,7 +36,7 @@ export default function Artwork() {
 
       {exhibitions.length > 0 && (
         <>
-          <h3 className="mt-12 mb-4 text-sm font-semibold">Exhibitions</h3>
+          <h3 className="mt-12 mb-4 text-sm font-semibold">Group Exhibitions</h3>
           <ul className="divide-y divide-zinc-100 dark:divide-zinc-900">
             {exhibitions.map((ex) => (
               <li key={ex.title} className="flex items-baseline justify-between gap-6 py-2.5 first:pt-0">
