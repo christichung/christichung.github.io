@@ -177,23 +177,11 @@ export const awards: Award[] = [
   { title: "University of Toronto Gordon Cressy Leadership Award", year: "2019" },
   { title: "Daniel Berlin Scholarship in Computer Science, University of Toronto", year: "2018", amount: "$1,700 CAD" },
   { title: "Tom Hull Scholarship in Computer Science, University of Toronto", year: "2018", amount: "$1,100 CAD" },
-  { title: "Solar Panel Experiential Fund, University of Toronto", year: "2018", amount: "$300 CAD" },
   { title: "NSERC Undergraduate Research Award", year: "2015, 2017", amount: "$6,000 CAD × 2" },
   { title: "Ken Sevcik Bursary in Computer Science, University of Toronto", year: "2017", amount: "$656 CAD" },
-  { title: "Student Scholarship, Foundations of Digital Games Conference", year: "2017", amount: "$350 USD" },
-  { title: "Betty Jean Boultbee Bursary, University of Toronto", year: "2017", amount: "$4,600 CAD" },
   { title: "CRA-E Outstanding Undergraduate Researcher Honorable Mention", year: "2016" },
   { title: "University of Toronto Scholar", year: "2016", amount: "$1,000 CAD" },
-  { title: "ACM SIGSOFT Travel Award", year: "2016", amount: "$1,000 USD" },
-  { title: "Trinity College Meeting Travel Award, University of Toronto", year: "2016", amount: "$300 CAD" },
-  { title: "Provost's Travel Award, University of Toronto", year: "2016", amount: "$300 CAD" },
-  { title: "Mossie Waddington Kirkwood Scholarship, University of Toronto", year: "2016", amount: "$1,000 CAD" },
   { title: "Trenwith Computer Science Award, University of Toronto", year: "2015", amount: "$1,080 CAD" },
-  { title: "David Squires Scholarship", year: "2015", amount: "$750 CAD" },
-  { title: "Sodexo Award, University of Toronto", year: "2015", amount: "$500 CAD" },
-  { title: "Chancellor's Scholarship, University of Toronto", year: "2014", amount: "$500 CAD" },
-  { title: "Outstanding Achievement in CSC148, University of Toronto", year: "2014" },
-  { title: "President's Entrance Scholarship, University of Toronto", year: "2013", amount: "$2,000 CAD" },
 ];
 
 export interface ServiceRole {
