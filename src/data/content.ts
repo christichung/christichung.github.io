@@ -200,7 +200,7 @@ export interface ServiceRole {
 
 export const service: ServiceRole[] = [
   { role: "Founder & President", org: "Humber Visual and Digital Arts Club", period: "Sep 2024 – Apr 2026" },
-  { role: "Founder & President", org: "TURCS (Toronto Undergraduate Research in Computer Science)", period: "Apr 2017 – Present" },
+  { role: "Founder & President", org: "TURCS (Toronto Undergraduate Research in Computer Science)", period: "Apr 2017 – May 2019" },
   { role: "Co-President", org: "Women in Computer Science, University of Toronto", period: "Apr 2017 – May 2019" },
   { role: "External Reviewer", org: "FSE (Foundations of Software Engineering)", period: "2017" },
   { role: "External Reviewer", org: "CHI (Conference on Human Factors in Computing Systems)", period: "2017" },
