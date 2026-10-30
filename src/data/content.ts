@@ -62,8 +62,8 @@ export const experience: Job[] = [
     location: "Toronto, ON",
     period: "Apr 2023 – Aug 2024",
     points: [
-      "Led implementation of a tax compliance feature supporting new Japanese invoicing regulations, addressing a critical churn risk affecting 85% of Japanese online sellers.",
-      "Developed REST API endpoints integrating Square's order management platform with Weebly's legacy transactional email system, supporting cancellation and refund notifications.",
+      "Developed REST API endpoints to integrate Square's order management platform with Weebly's legacy transactional email system, supporting cancellation and refund notifications.",
+      "Led implementation of a frontend tax compliance feature supporting new Japanese invoicing regulations, addressing a critical churn risk affecting 85% of Japanese online sellers.",
       "Contributed to engineering design documents and REST API specifications for the email migration, including endpoint naming, request payload design, and integration with existing email workflows.",
     ],
   },
@@ -73,8 +73,8 @@ export const experience: Job[] = [
     location: "Toronto, ON",
     period: "Jan 2021 – Apr 2023",
     points: [
-      "Reduced processing time by 97% by building Python automation services for satellite–ground station communications.",
-      "Automated testing and deployment of worker processes using Docker, Kubernetes, and Ansible.",
+      "Designed and implemented Python-based scheduling services using REST APIs, caching, and automated background jobs to coordinate satellite–ground station communications, reducing processing time by 97%.",
+      "Containerized worker services using Docker and automated deployment and orchestration with Ansible and Kubernetes.",
       "Mentored a junior software developer and introduced a buddy system to support onboarding of new engineers.",
       "Co-chaired the Women's ERG.",
     ],
