@@ -1,6 +1,10 @@
 // All site content lives here. Edit this file to update the portfolio.
 // Files referenced with a leading "/" are served from the `public/` folder.
 
+// Google Analytics 4 Measurement ID (looks like "G-XXXXXXXXXX").
+// Leave empty to turn analytics off.
+export const googleAnalyticsId = "G-QD7T6GZX3B";
+
 export const profile = {
   name: "Christina Chung",
   title: "Software Engineer & Artist",

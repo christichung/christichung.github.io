@@ -15,7 +15,7 @@ export default function Hero() {
       <p className="mb-4 text-sm font-medium text-zinc-500 dark:text-zinc-400">{profile.location}</p>
       <h1 className="text-4xl font-bold tracking-tight sm:text-6xl">{profile.name}</h1>
       <p className="mt-4 max-w-2xl text-lg text-zinc-600 sm:text-xl dark:text-zinc-400">
-        Software engineer in the day, artist at night.
+        Software engineer in the day, artist at night!
       </p>
 
       <div className="mt-8 flex flex-wrap items-center gap-3">
