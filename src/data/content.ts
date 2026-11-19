@@ -28,12 +28,12 @@ export const education = [
   {
     school: "Humber Polytechnic",
     degree: "Visual and Digital Arts · 95% average",
-    period: "2024 – 2026",
+    period: "2026",
   },
   {
     school: "University of Toronto (St. George)",
     degree: "Honours Bachelor of Science, Specialist in Computer Science · 4.0/4.0 cGPA",
-    period: "2013 – 2020",
+    period: "2020",
   },
 ];
 
