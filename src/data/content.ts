@@ -85,7 +85,7 @@ export const experience: Job[] = [
     location: "Toronto, ON",
     period: "May 2020 – Jan 2021",
     points: [
-      "Built a reusable JWT-based authorization library in TypeScript, Node.js, and Express.js, adopted as a core component across TouchBistro APIs.",
+      "Built a reusable JWT-based authorization library using TypeScript, Node.js, and Express.js, eliminating the need for teams to implement authorization independently, reducing development and maintenance overhead, and ensuring consistent authorization across TouchBistro APIs.",
     ],
   },
   {
